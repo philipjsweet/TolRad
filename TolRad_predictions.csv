@@ -1,0 +1,598 @@
+﻿ATCC_Name,ATCC_Strain,UniProt_name,Phylum,ID,Radiosensitive (Y/N),Missing Pfam's,Dataset
+Alistipes putredinis¬†(Weinberg et al.) Rautio et al.,"VPI 3293 [1Ando, CCUG 45780, CIP 104286, DSM 17216]",Alistipes putredinis CAG:67,Bacteroidetes,ATCC_2,Yes,0,NIH_ATCC
+Bacteroides caccae¬†Johnson et al.,"VPI 3452A [CIP 104201T, JCM 9498]",Bacteroides caccae,Bacteroidetes,ATCC_7,Yes,0,NIH_ATCC
+Bacteroides ovatus¬†Eggerth and Gagnon,[NCTC 11153],Bacteroides ovatus (strain ATCC 8483 / DSM 1896 / JCM 5824 / BCRC 10623 / CCUG 4943 / NCTC 11153),Bacteroidetes,ATCC_8,Yes,0,NIH_ATCC
+Bacteroides stercoris Johnson et al.,"VPI B5-21 [CIP 104203T, JCM 9496, subsp. a]",Bacteroides stercoris,Bacteroidetes,ATCC_9,Yes,0,NIH_ATCC
+Bacteroides uniformis¬†Eggerth and Gagnon,Bacteroides thetaiotaomicron¬†(Distaso) Castellani and Chalmers,Bacteroides uniformis,Bacteroidetes,ATCC_10,Yes,0,NIH_ATCC
+Capnocytophaga sputigena¬†Leadbetter et al.,,Capnocytophaga sputigena,Bacteroidetes,ATCC_12,Yes,0,NIH_ATCC
+Eikenella corrodens¬†(Eiken) Jackson and Goodman,333/54-55,Eikenella corrodens,Pseudomonadota,ATCC_21,Yes,1,NIH_ATCC
+Eubacterium siraeum¬†Moore et al.,VPI T9-50-2 [DSM 15702],Eubacterium siraeum CAG:80,Bacillota,ATCC_23,Yes,0,NIH_ATCC
+Helicobacter canadensis¬†Fox et al.,"NLEP 16143 [98-5491, MIT98-5491]",Helicobacter canadensis MIT 98-5491,Pseudomonadota,ATCC_28,Yes,0,NIH_ATCC
+Parabacteroides merdae¬†(Johnson et al.) Sakamoto and Benno,"VPI T4-1 [CIP 104202T, JCM 9497]",Parabacteroides merdae ATCC 43184,Bacteroidetes,ATCC_32,Yes,0,NIH_ATCC
+Abiotrophia defectiva¬†(Bouvet et al.) Kawamura et al.,SC10 [CIP 103242],Abiotrophia defectiva ATCC 49176,Bacillota,ATCC_1,No,0,NIH_ATCC
+Anaerococcus hydrogenalis¬†(Ezaki et al.) Ezaki et al.,"JCM 7635 [DSM 7454, GIFU 7662]",Anaerococcus hydrogenalis,Bacillota,ATCC_3,No,0,NIH_ATCC
+Anaerococcus lactolyticus¬†(Li et al.) Ezaki et al.,"JCM 8140 [CIP 103725, DSM 7456, GIFU 8586]",Anaerococcus lactolyticus ATCC 51172,Bacillota,ATCC_4,No,0,NIH_ATCC
+Anaerococcus tetradius¬†(Ezaki et al.) Ezaki et al.,"GIFU 7672 [CCM 3634, CCUG 17637, CIP 103927, DSM 2951, GIFU 7672, JCM 1964, LMG 14264]",Anaerococcus tetradius ATCC 35098,Bacillota,ATCC_5,No,0,NIH_ATCC
+Anaerofustis stercorihominis,"WAL 14563 [CCUG 47767, DSM 17244]",Anaerofustis stercorihominis DSM 17244,Bacillota,ATCC_6,No,1,NIH_ATCC
+Bifidobacterium dentium¬†Scardovi and Crociani,B757,Bifidobacterium dentium ATCC 27679,Actinobacteria,ATCC_11,No,0,NIH_ATCC
+Clostridium bolteae,WAL 16351 [CCUG 46953],Enterocloster bolteae (strain ATCC BAA-613 / DSM 15670 / CCUG 46953 / JCM 12243 / WAL 16351) (Clostridium bolteae),Bacillota,ATCC_13,No,0,NIH_ATCC
+Clostridium leptum¬†Moore et al.,VPI T7-24-2 [DSM 753],Clostridium leptum CAG:27,Bacillota,ATCC_14,No,0,NIH_ATCC
+Clostridium scindens¬†Morris et al.,VPI 13733,Clostridium scindens (strain JCM 10418 / VPI 12708),Bacillota,ATCC_15,No,0,NIH_ATCC
+Clostridium spiroforme¬†Kaneuchi et al.,"[NCTC 11211, VPI C28-23-1A, DSM 1552]",[Clostridium] spiroforme DSM 1552,Bacillota,ATCC_16,No,0,NIH_ATCC
+Clostridium sporogenes¬†(Metchnikoff) Bergey et al.,,Clostridium sporogenes,Bacillota,ATCC_17,No,0,NIH_ATCC
+Collinsella aerofaciens¬†(Eggerth) Kageyama et al.,"VPI 1003 [DSM 3979, JCM 10188]",Collinsella aerofaciens,Actinobacteria,ATCC_18,No,0,NIH_ATCC
+Coprococcus eutactus¬†Holdeman and Moore,VPI C33-22,Coprococcus eutactus CAG:665,Bacillota,ATCC_19,No,0,NIH_ATCC
+Dorea formicigenerans,VPI C8-13 [JCM 9500],Dorea formicigenerans CAG:28,Bacillota,ATCC_20,No,0,NIH_ATCC
+Eubacterium dolichum¬†Moore et al.,VPI C9-20 [DSM 3991],Eubacterium dolichum CAG:375,Bacillota,ATCC_22,No,0,NIH_ATCC
+Eubacterium ventriosum¬†(Tissier) Prevot,VPI 1013B,Eubacterium ventriosum ATCC 27560,Bacillota,ATCC_24,No,0,NIH_ATCC
+Fusobacterium ulcerans¬†Adriaans and Shah,NCTC 12111,Fusobacterium ulcerans 12-1B,Fusobacteria,ATCC_25,No,0,NIH_ATCC
+Gardnerella vaginalis¬†(Gardner and Dukes) Greenwood and Pickett,317,Gardnerella vaginalis 6420B,Actinobacteria,ATCC_26,No,0,NIH_ATCC
+Helicobacter bilis¬†Fox et al.,SLH-38264,Helicobacter bilis,Pseudomonadota,ATCC_27,No,1,NIH_ATCC
+Helicobacter winghamensis¬†Melito et al.,NLEP 97-1090,Helicobacter winghamensis,Pseudomonadota,ATCC_29,No,1,NIH_ATCC
+Lactobacillus buchneri¬†(Henneberg) Bergey et al.,,Lentilactobacillus buchneri subsp. silagei CD034,Bacillota,ATCC_30,No,0,NIH_ATCC
+Lactobacillus salivarius¬†subsp.¬†salivarius¬†Rogosa et al.,HO66,Ligilactobacillus salivarius (strain UCC118) (Lactobacillus salivarius),Bacillota,ATCC_31,No,0,NIH_ATCC
+Parvimonas micra¬†formerly¬†Micromonas micros and Peptostreptococcus micros,"VPI 5464 [3119B, DSM 20468, GIFU 7824, NCTC 11808]",Parvimonas micra,Bacillota,ATCC_33,No,1,NIH_ATCC
+Providencia stuartii¬†(Buttiaux et al.) Ewing,NCDC 3646-51,Providencia stuartii (strain MRSN 2154),Pseudomonadota,ATCC_34,No,0,NIH_ATCC
+Pseudoflavonifractor capillosus¬†(Seguin) Carlier et al.,VPI R2-29-1,Pseudoflavonifractor capillosus ATCC 29799,Bacillota,ATCC_35,No,0,NIH_ATCC
+Ruminococcus gnavus¬†Moore et al.,VPI C7-9,[Ruminococcus] gnavus CAG:126,Bacillota,ATCC_36,No,0,NIH_ATCC
+Ruminococcus torques¬†Holdeman and Moore,VPI B2-51,[Ruminococcus] torques L2-14,Bacillota,ATCC_37,No,0,NIH_ATCC
+UniProt Human Oral Dataset,,,,,,,
+Campylobacter gracilis RM3268,,,Proteobacteria,Oral_7,Yes,0,Human_Oral
+Capnocytophaga granulosa,,,Bacteroidetes,Oral_9,Yes,0,Human_Oral
+Capnocytophaga granulosa (strain ATCC 51502 / DSM 11449 / JCM 8566 / LMG 16022 / NCTC 12948 / B0611),,,Bacteroidetes,Oral_10,Yes,0,Human_Oral
+Cryptobacterium curtum (strain ATCC 700683 / DSM 15641 / CCUG 43107 / 12-3),,,Actinobacteria,Oral_15,Yes,1,Human_Oral
+Eikenella corrodens CC92I,,,Proteobacteria,Oral_16,Yes,1,Human_Oral
+Prevotella denticola,,,Bacteroidetes,Oral_32,Yes,0,Human_Oral
+Prevotella nigrescens ATCC 33563,,,Bacteroidetes,Oral_34,Yes,0,Human_Oral
+Tannerella forsythia (strain ATCC 43037 / JCM 10827 / CCUG 21028 A / KCTC 5666 / FDC 338) (Bacteroides forsythus),,,Bacteroidetes,Oral_42,Yes,0,Human_Oral
+Veillonella parvula ATCC 17745,,,Firmicutes,Oral_46,Yes,0,Human_Oral
+Filifactor alocis (strain ATCC 35896 / D40 B5) (Fusobacterium alocis),,,Firmicutes,Oral_1,No,2,Human_Oral
+Abiotrophia defectiva ATCC 49176,,,Firmicutes,Oral_2,No,0,Human_Oral
+Actinomyces graevenitzii C83,,,Actinobacteria,Oral_3,No,0,Human_Oral
+Actinomyces massiliensis F0489,,,Actinobacteria,Oral_4,No,0,Human_Oral
+Anaeroglobus geminatus F0357,,,Firmicutes,Oral_5,No,0,Human_Oral
+Bulleidia extructa W1219,,,Firmicutes,Oral_6,No,0,Human_Oral
+Capnocytophaga gingivalis,,,Bacteroidetes,Oral_8,No,0,Human_Oral
+Cardiobacterium hominis (strain ATCC 15826 / DSM 8339 / NCTC 10426 / 6573),,,Proteobacteria,Oral_11,No,0,Human_Oral
+Cardiobacterium valvarum,,,Proteobacteria,Oral_12,No,0,Human_Oral
+Corynebacterium durum F0235,,,Actinobacteria,Oral_13,No,0,Human_Oral
+Corynebacterium matruchotii ATCC 14266,,,Actinobacteria,Oral_14,No,0,Human_Oral
+Elizabethkingia meningoseptica (Chryseobacterium meningosepticum),,,Bacteroidetes,Oral_17,No,0,Human_Oral
+Eubacterium brachy ATCC 33089,,,Firmicutes,Oral_18,No,0,Human_Oral
+Haemophilus parahaemolyticus,,,Proteobacteria,Oral_19,No,0,Human_Oral
+Kingella oralis ATCC 51147,,,Proteobacteria,Oral_20,No,1,Human_Oral
+Lancefieldella parvula (strain ATCC 33793 / DSM 20469 / CCUG 32760 / JCM 10300 / KCTC 3663 / VPI 0546 / 1246) (Atopobium parvulum),,,Actinobacteria,Oral_21,No,0,Human_Oral
+Lautropia mirabilis ATCC 51599,,,Proteobacteria,Oral_22,No,0,Human_Oral
+Leptotrichia buccalis (strain ATCC 14201 / DSM 1135 / JCM 12969 / NCTC 10249 / C-1013-b),,,Fusobacteria,Oral_23,No,0,Human_Oral
+Leptotrichia hofstadii F0254,,,Fusobacteria,Oral_24,No,0,Human_Oral
+Megasphaera micronuciformis F0359,,,Firmicutes,Oral_25,No,1,Human_Oral
+Neisseria bacilliformis ATCC BAA-1200,,,Proteobacteria,Oral_26,No,0,Human_Oral
+Neisseria elongata subsp. glycolytica ATCC 29315,,,Proteobacteria,Oral_27,No,1,Human_Oral
+Oribacterium sinus F0268,,,Firmicutes,Oral_28,No,2,Human_Oral
+Porphyromonas gingivalis (strain ATCC BAA-308 / W83),,,Bacteroidetes,Oral_29,No,0,Human_Oral
+Porphyromonas catoniae ATCC 51270,,,Bacteroidetes,Oral_30,No,0,Human_Oral
+Porphyromonas endodontalis (strain ATCC 35406 / BCRC 14492 / JCM 8526 / NCTC 13058 / HG 370),,,Bacteroidetes,Oral_31,No,0,Human_Oral
+Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930,,,Bacteroidetes,Oral_33,No,0,Human_Oral
+Rothia aeria,,,Actinobacteria,Oral_35,No,0,Human_Oral
+Rothia dentocariosa,,,Actinobacteria,Oral_36,No,0,Human_Oral
+Selenomonas infelix ATCC 43532,,,Firmicutes,Oral_37,No,1,Human_Oral
+Selenomonas sputigena (strain ATCC 35185 / DSM 20758 / VPI D19B-28),,,Firmicutes,Oral_38,No,1,Human_Oral
+Streptococcus intermedius B196,,,Firmicutes,Oral_39,No,0,Human_Oral
+Streptococcus mutans serotype c (strain ATCC 700610 / UA159),,,Firmicutes,Oral_40,No,0,Human_Oral
+Streptococcus sanguinis (strain SK36),,,Firmicutes,Oral_41,No,0,Human_Oral
+Treponema maltophilum ATCC 51939,,,Spirochaetes,Oral_43,No,1,Human_Oral
+Treponema socranskii subsp. socranskii VPI DR56BR1116 = ATCC 35536,,,Spirochaetes,Oral_44,No,0,Human_Oral
+Fusobacterium nucleatum subsp. vincentii ATCC 49256,,,Fusobacteria,Oral_45,No,0,Human_Oral
+Neisseria cinerea,,Neisseria cinerea,Proteobacteria,Skin_14,Yes,0,Skin
+Neisseria flavescens NRL30031/H210,,Neisseria Flavescens,Proteobacteria,Skin_15,Yes,1,Skin
+Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),,pseudomonas fluorescens,Proteobacteria,Skin_17,Yes,0,Skin
+Veillonella parvula (strain ATCC 10790 / DSM 2008 / CCUG 5123 / JCM 12972 / NCTC 11810 / Te3) (Veillonella alcalescens),,Veillonella parvula,Firmicutes,Skin_27,Yes,0,Skin
+Acinetobacter lwoffii NIPH 715,,Acinetobacter Lwoffii,Proteobacteria,Skin_1,No,0,Skin
+Corynebacterium amycolatum,,Corynebacterium amycolatum,Actinobacteria,Skin_2,No,0,Skin
+Corynebacterium kroppenstedtii (strain DSM 44385 / JCM 11950 / CIP 105744 / CCUG 35717),,Corynebacterium kroppenstedtii,Actinobacteria,Skin_3,No,0,Skin
+Corynebacterium minutissimum,,Corynebacterium minutissimum,Actinobacteria,Skin_4,No,0,Skin
+Corynebacterium resistens (strain DSM 45100 / JCM 12819 / GTC 2026 / SICGH 158),,Corynebacterium resistens,Actinobacteria,Skin_5,No,0,Skin
+Corynebacterium simulans,,Corynebacterium simulans,Actinobacteria,Skin_6,No,0,Skin
+Corynebacterium tuberculostearicum SK141,,Corynebacterium tuberculostearicum,Actinobacteria,Skin_7,No,0,Skin
+Cutibacterium acnes (strain DSM 16379 / KPA171202) (Propionibacterium acnes),,Propionibacterium acnes,Actinobacteria,Skin_8,No,0,Skin
+Enhydrobacter aerosaccus,,Enhydrobacter aerosaccus,Proteobacteria,Skin_9,No,0,Skin
+Gardnerella vaginalis 6420B,,Gardmerella vaginalis,Actinobacteria,Skin_10,No,0,Skin
+Gordonia bronchialis (strain ATCC 25592 / DSM 43247 / BCRC 13721 / JCM 3198 / KCTC 3076 / NBRC 16047 / NCTC 10667) (Rhodococcus bronchialis),,Gordonia bronchialis,Actinobacteria,Skin_11,No,0,Skin
+Lactobacillus crispatus,,lactobacillus crispatus,Firmicutes,Skin_12,No,0,Skin
+Micrococcus luteus (strain ATCC 4698 / DSM 20030 / JCM 1464 / NBRC 3333 / NCIMB 9278 / NCTC 2665 / VKM Ac-2230) (Micrococcus lysodeikticus),,Micrococcus luteus,Actinobacteria,Skin_13,No,0,Skin
+Porphyromonas asaccharolytica (strain ATCC 25260 / DSM 20707 / BCRC 10618 / JCM 6326 / LMG 13178 / VPI 4198) (Bacteroides asaccharolyticus),,porphyromonas asaccharolytica,Bacteroidetes,Skin_16,No,1,Skin
+Staphylococcus capitis,,Staphylococcus capitis,Firmicutes,Skin_18,No,0,Skin
+Staphylococcus hominis,,Staphylococcus hominis,Firmicutes,Skin_19,No,0,Skin
+Staphylococcus warneri,,Staphylococcus warneri,Firmicutes,Skin_20,No,0,Skin
+Streptococcus mitis SK1073,,Streptococcus mitis,Firmicutes,Skin_21,No,0,Skin
+Streptococcus oralis subsp. oralis,,Streptococcus oralis,Firmicutes,Skin_22,No,0,Skin
+Streptococcus pseudopneumoniae,,Streptococcus pseudopneumoniae,Firmicutes,Skin_23,No,0,Skin
+Streptococcus pyogenes serotype M1,,Streptococcus pyogenes,Firmicutes,Skin_24,No,0,Skin
+Streptococcus salivarius,,Streptococcus salivarius (strain CCHSS3),Firmicutes,Skin_25,No,0,Skin
+Streptococcus sanguinis (strain SK36),,Streptococcus sanguinis,Firmicutes,Skin_26,No,0,Skin
+Weeksella virosa (strain ATCC 43766 / DSM 16922 / JCM 21250 / CCUG 30538 / CDC 9751 / IAM 14551 / NBRC 16016 / NCTC 11634 / CL345/78),,weeksella virosa,Bacteroidetes,Skin_28,No,0,Skin
+Alcaligenes xylosoxydans xylosoxydans (Achromobacter xylosoxidans),,,Proteobacteria,Gut_2,Yes,0,Gut
+Alistipes shahii WAL 8301,,,Bacteroidetes,Gut_3,Yes,0,Gut
+Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / CCUG 4856 / JCM 11019 / NCTC 9343 / Onslow),,,Bacteroidetes,Gut_5,Yes,0,Gut
+Bacteroides stercoris,,,Bacteroidetes,Gut_6,Yes,0,Gut
+Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / JCM 5827 / CCUG 10774 / NCTC 10582 / VPI-5482 / E50),,,Bacteroidetes,Gut_7,Yes,0,Gut
+Gordonibacter pamelaeae 7-10-1-b,,,Actinobacteria,Gut_25,Yes,0,Gut
+Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacter pylori),,,Proteobacteria,Gut_26,Yes,2,Gut
+Klebsiella pneumoniae subsp. pneumoniae (strain HS11286),,,Proteobacteria,Gut_29,Yes,0,Gut
+Odoribacter splanchnicus (strain ATCC 29572 / DSM 20712 / CIP 104287 / JCM 15291 / NCTC 10825 / 1651/6) (Bacteroides splanchnicus),,,Bacteroidetes,Gut_34,Yes,0,Gut
+Parabacteroides merdae ATCC 43184,,,Bacteroidetes,Gut_36,Yes,0,Gut
+Prevotella copri DSM 18205,,,Bacteroidetes,Gut_37,Yes,0,Gut
+Acinetobacter baumannii,,,Proteobacteria,Gut_1,No,0,Gut
+Bacteroides eggerthii,,,Bacteroidetes,Gut_4,No,0,Gut
+Bifidobacterium adolescentis (strain ATCC 15703 / DSM 20083 / NCTC 11814 / E194a),,,Actinobacteria,Gut_8,No,0,Gut
+Bifidobacterium bifidum (strain PRL2010),,,Actinobacteria,Gut_9,No,0,Gut
+Bifidobacterium longum (strain NCC 2705),,,Actinobacteria,Gut_10,No,0,Gut
+Bifidobacterium pseudocatenulatum,,,Actinobacteria,Gut_11,No,0,Gut
+Cloacibacillus evryensis DSM 19522,,,Synergistetes,Gut_12,No,0,Gut
+Clostridium beijerinckii (Clostridium MP),,,Firmicutes,Gut_13,No,0,Gut
+Collinsella aerofaciens,,,Actinobacteria,Gut_14,No,0,Gut
+Coprococcus catus,,,Firmicutes,Gut_15,No,0,Gut
+Coprococcus comes ATCC 27758,,,Firmicutes,Gut_16,No,0,Gut
+Dorea formicigenerans CAG:28,,,Firmicutes,Gut_17,No,0,Gut
+Eggerthella lenta (strain ATCC 25559 / DSM 2243 / CCUG 17323 / JCM 9979 / KCTC 3265 / NCTC 11813 / VPI 0255 / 1899 B) (Eubacterium lentum),,,Actinobacteria,Gut_18,No,0,Gut
+Erysipelatoclostridium ramosum DSM 1402,,,Firmicutes,Gut_19,No,0,Gut
+Faecalibacterium prausnitzii M21/2,,,Firmicutes,Gut_20,No,0,Gut
+Fusobacterium gonidiaformans 3-1-5R,,,Fusobacteria,Gut_21,No,1,Gut
+Fusobacterium mortiferum ATCC 9817,,,Fusobacteria,Gut_22,No,0,Gut
+Fusobacterium nucleatum subsp. animalis ATCC 51191,,,Fusobacteria,Gut_23,No,0,Gut
+Fusobacterium varium ATCC 27725,,,Fusobacteria,Gut_24,No,0,Gut
+Holdemanella biformis DSM 3989,,,Firmicutes,Gut_27,No,0,Gut
+Holdemania filiformis DSM 12042,,,Firmicutes,Gut_28,No,0,Gut
+Lactobacillus amylovorus DSM 16698,,,Firmicutes,Gut_30,No,0,Gut
+Lactobacillus gasseri (strain ATCC 33323 / DSM 20243 / BCRC 14619 / CIP 102991 / JCM 1131 / KCTC 3163 / NCIMB 11718 / NCTC 13722 / AM63),,,Firmicutes,Gut_31,No,0,Gut
+Megamonas funiformis YIT 11815,,,Firmicutes,Gut_32,No,0,Gut
+Mitsuokella jalaludinii,,,Firmicutes,Gut_33,No,0,Gut
+Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 / CIP 104284 / JCM 5825 / NCTC 11152),,,Bacteroidetes,Gut_35,No,0,Gut
+Proteus mirabilis,,,Proteobacteria,Gut_38,No,0,Gut
+Roseburia intestinalis CAG:13,,,Firmicutes,Gut_39,No,0,Gut
+[Ruminococcus] gnavus CC55_001C,,,Firmicutes,Gut_40,No,0,Gut
+Shigella sonnei (strain Ss046),,,Proteobacteria,Gut_41,No,0,Gut
+,,,Proteobacteria;,Glacial4_7,Yes,0,CHA
+,,,Proteobacteria;,Glacial4_25,Yes,0,CHA
+,,,Proteobacteria;,Glacial4_1,No,0,CHA
+,,,Proteobacteria;,Glacial4_2,No,0,CHA
+,,,Desulfobacterota;,Glacial4_3,No,0,CHA
+,,,Bacteroidetes;,Glacial4_4,No,0,CHA
+,,,Proteobacteria;,Glacial4_5,No,0,CHA
+,,,Proteobacteria;,Glacial4_6,No,0,CHA
+,,,Chloroflexi;,Glacial4_8,No,0,CHA
+,,,Bacteroidetes;,Glacial4_9,No,0,CHA
+,,,Proteobacteria;,Glacial4_10,No,0,CHA
+,,,Proteobacteria;,Glacial4_11,No,0,CHA
+,,,Proteobacteria;,Glacial4_12,No,0,CHA
+,,,Desulfuromonadota;,Glacial4_13,No,0,CHA
+,,,Elusimicrobia;,Glacial4_14,No,1,CHA
+,,,Proteobacteria;,Glacial4_15,No,0,CHA
+,,,Proteobacteria;,Glacial4_16,No,0,CHA
+,,,Proteobacteria;,Glacial4_17,No,0,CHA
+,,,Planctomycetes;,Glacial4_18,No,2,CHA
+,,,Proteobacteria;,Glacial4_19,No,0,CHA
+,,,Deinococci;,Glacial4_20,No,0,CHA
+,,,Proteobacteria;,Glacial4_21,No,0,CHA
+,,,Proteobacteria;,Glacial4_22,No,0,CHA
+,,,Firmicutes;,Glacial4_23,No,1,CHA
+,,,Bacteroidetes;,Glacial4_24,No,0,CHA
+,,,Proteobacteria;,Glacial4_26,No,0,CHA
+,,,Proteobacteria;,Glacial4_27,No,0,CHA
+,,,Desulfobacterota;,Glacial4_28,No,0,CHA
+,,,Actinobacteria;,Glacial4_29,No,0,CHA
+,,,Proteobacteria;,Glacial4_30,No,1,CHA
+,,,,,,,
+,,,Firmicutes,HumanMB_35,Yes,0,HMB
+,,,Firmicutes,HumanMB_37,Yes,0,HMB
+,,,Firmicutes,HumanMB_50,Yes,0,HMB
+,,,Bacteroidota,HumanMB_52,Yes,0,HMB
+,,,Firmicutes,HumanMB_57,Yes,0,HMB
+,,,Bacteroidota,HumanMB_77,Yes,0,HMB
+,,,Firmicutes,HumanMB_78,Yes,0,HMB
+,,,Firmicutes,HumanMB_1,No,0,HMB
+,,,Proteobacteria,HumanMB_2,No,0,HMB
+,,,Firmicutes,HumanMB_3,No,0,HMB
+,,,Firmicutes,HumanMB_4,No,0,HMB
+,,,Proteobacteria,HumanMB_5,No,0,HMB
+,,,Firmicutes,HumanMB_6,No,0,HMB
+,,,Proteobacteria,HumanMB_7,No,0,HMB
+,,,Proteobacteria,HumanMB_8,No,0,HMB
+,,,Firmicutes,HumanMB_9,No,0,HMB
+,,,Proteobacteria,HumanMB_10,No,0,HMB
+,,,Proteobacteria,HumanMB_11,No,0,HMB
+,,,Proteobacteria,HumanMB_12,No,0,HMB
+,,,Firmicutes,HumanMB_13,No,0,HMB
+,,,Firmicutes,HumanMB_14,No,0,HMB
+,,,Proteobacteria,HumanMB_15,No,0,HMB
+,,,Proteobacteria,HumanMB_16,No,0,HMB
+,,,Firmicutes,HumanMB_17,No,0,HMB
+,,,Proteobacteria,HumanMB_18,No,0,HMB
+,,,Proteobacteria,HumanMB_19,No,0,HMB
+,,,Actinobacteriota,HumanMB_20,No,0,HMB
+,,,Firmicutes,HumanMB_21,No,0,HMB
+,,,Proteobacteria,HumanMB_22,No,0,HMB
+,,,Proteobacteria,HumanMB_23,No,0,HMB
+,,,Proteobacteria,HumanMB_24,No,0,HMB
+,,,Firmicutes,HumanMB_25,No,0,HMB
+,,,Firmicutes,HumanMB_26,No,0,HMB
+,,,Proteobacteria,HumanMB_27,No,0,HMB
+,,,Proteobacteria,HumanMB_28,No,0,HMB
+,,,Firmicutes,HumanMB_29,No,0,HMB
+,,,Proteobacteria,HumanMB_30,No,0,HMB
+,,,Firmicutes,HumanMB_31,No,0,HMB
+,,,Firmicutes,HumanMB_32,No,0,HMB
+,,,Firmicutes,HumanMB_33,No,0,HMB
+,,,Firmicutes,HumanMB_34,No,0,HMB
+,,,Firmicutes,HumanMB_36,No,0,HMB
+,,,Firmicutes,HumanMB_38,No,0,HMB
+,,,Firmicutes,HumanMB_39,No,0,HMB
+,,,Firmicutes,HumanMB_40,No,0,HMB
+,,,Proteobacteria,HumanMB_41,No,0,HMB
+,,,Firmicutes,HumanMB_42,No,0,HMB
+,,,Firmicutes,HumanMB_43,No,1,HMB
+,,,Firmicutes,HumanMB_44,No,0,HMB
+,,,Firmicutes,HumanMB_45,No,0,HMB
+,,,Firmicutes,HumanMB_46,No,0,HMB
+,,,Firmicutes,HumanMB_47,No,0,HMB
+,,,Firmicutes,HumanMB_48,No,0,HMB
+,,,Firmicutes,HumanMB_49,No,1,HMB
+,,,Firmicutes,HumanMB_51,No,0,HMB
+,,,Firmicutes,HumanMB_53,No,0,HMB
+,,,Firmicutes,HumanMB_54,No,0,HMB
+,,,Firmicutes,HumanMB_55,No,0,HMB
+,,,Firmicutes,HumanMB_56,No,0,HMB
+,,,Firmicutes,HumanMB_58,No,0,HMB
+,,,Firmicutes,HumanMB_59,No,0,HMB
+,,,Firmicutes,HumanMB_60,No,0,HMB
+,,,Firmicutes,HumanMB_61,No,0,HMB
+,,,Firmicutes,HumanMB_62,No,0,HMB
+,,,Firmicutes,HumanMB_63,No,0,HMB
+,,,Firmicutes,HumanMB_64,No,0,HMB
+,,,Firmicutes,HumanMB_65,No,0,HMB
+,,,Firmicutes,HumanMB_66,No,0,HMB
+,,,Firmicutes,HumanMB_67,No,0,HMB
+,,,Bacteroidota,HumanMB_68,No,0,HMB
+,,,Firmicutes,HumanMB_69,No,0,HMB
+,,,Firmicutes,HumanMB_70,No,0,HMB
+,,,Firmicutes,HumanMB_71,No,0,HMB
+,,,Firmicutes,HumanMB_72,No,0,HMB
+,,,Firmicutes,HumanMB_73,No,0,HMB
+,,,Firmicutes,HumanMB_74,No,0,HMB
+,,,Firmicutes,HumanMB_75,No,0,HMB
+,,,Firmicutes,HumanMB_76,No,0,HMB
+,,,Firmicutes,HumanMB_79,No,0,HMB
+,,,Firmicutes,HumanMB_80,No,0,HMB
+,,,Firmicutes,HumanMB_81,No,0,HMB
+,,,Firmicutes,HumanMB_82,No,0,HMB
+,,,Firmicutes,HumanMB_83,No,0,HMB
+,,,Bacteroidota,HumanMB_84,No,0,HMB
+,,,Proteobacteria,HumanMB_85,No,0,HMB
+,,,Firmicutes,HumanMB_86,No,0,HMB
+,,,Firmicutes,HumanMB_87,No,0,HMB
+,,,Firmicutes,HumanMB_88,No,0,HMB
+,,,Firmicutes,HumanMB_89,No,0,HMB
+,,,Firmicutes,HumanMB_90,No,0,HMB
+,,,Firmicutes,HumanMB_91,No,0,HMB
+,,,Firmicutes,HumanMB_92,No,0,HMB
+,,,Firmicutes,HumanMB_93,No,1,HMB
+,,,Proteobacteria,HumanMB_94,No,0,HMB
+,,,Proteobacteria,HumanMB_95,No,0,HMB
+,,,Proteobacteria,HumanMB_96,No,0,HMB
+,,,,,,,
+,,,Planctomycetota,DeepOcean4_3,Yes,0,Deep)cean
+,,,Acidobacteriota,DeepOcean4_4,Yes,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_7,Yes,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_8,Yes,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_10,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_11,Yes,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_16,Yes,1,Deep)cean
+,,,Bdellovibrionota,DeepOcean4_17,Yes,0,Deep)cean
+,,,Planctomycetota,DeepOcean4_18,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_28,Yes,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_29,Yes,1,Deep)cean
+,,,Bacteroidota,DeepOcean4_30,Yes,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_34,Yes,1,Deep)cean
+,,,Marinisomatota,DeepOcean4_36,Yes,1,Deep)cean
+,,,Bacteroidota,DeepOcean4_39,Yes,0,Deep)cean
+,,,Crenarchaeota,DeepOcean4_41,Yes,2,Deep)cean
+,,,Marinisomatota,DeepOcean4_47,Yes,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_50,Yes,0,Deep)cean
+,,,Planctomycetota,DeepOcean4_54,Yes,1,Deep)cean
+,,,Chloroflexota,DeepOcean4_55,Yes,2,Deep)cean
+,,,UBA8248,DeepOcean4_61,Yes,0,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_65,Yes,3,Deep)cean
+,,,Planctomycetota,DeepOcean4_72,Yes,3,Deep)cean
+,,,Proteobacteria,DeepOcean4_76,Yes,0,Deep)cean
+,,,Bdellovibrionota,DeepOcean4_80,Yes,0,Deep)cean
+,,,Nitrospinota,DeepOcean4_82,Yes,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_83,Yes,0,Deep)cean
+,,,Crenarchaeota,DeepOcean4_87,Yes,2,Deep)cean
+,,,Marinisomatota,DeepOcean4_92,Yes,2,Deep)cean
+,,,Bacteroidota,DeepOcean4_95,Yes,3,Deep)cean
+,,,Proteobacteria,DeepOcean4_96,Yes,0,Deep)cean
+,,,Crenarchaeota,DeepOcean4_97,Yes,3,Deep)cean
+,,,Marinisomatota,DeepOcean4_98,Yes,1,Deep)cean
+,,,Marinisomatota,DeepOcean4_100,Yes,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_101,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_102,Yes,0,Deep)cean
+,,,Latescibacterota,DeepOcean4_105,Yes,0,Deep)cean
+,,,Verrucomicrobiota,DeepOcean4_106,Yes,1,Deep)cean
+,,,Marinisomatota,DeepOcean4_107,Yes,1,Deep)cean
+,,,Acidobacteriota,DeepOcean4_109,Yes,0,Deep)cean
+,,,Planctomycetota,DeepOcean4_113,Yes,2,Deep)cean
+,,,Marinisomatota,DeepOcean4_115,Yes,3,Deep)cean
+,,,Nanoarchaeota,DeepOcean4_117,Yes,2,Deep)cean
+,,,Patescibacteria,DeepOcean4_119,Yes,4,Deep)cean
+,,,Planctomycetota,DeepOcean4_122,Yes,1,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_129,Yes,3,Deep)cean
+,,,Chloroflexota,DeepOcean4_134,Yes,0,Deep)cean
+,,,Latescibacterota,DeepOcean4_136,Yes,0,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_142,Yes,3,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_150,Yes,3,Deep)cean
+,,,Proteobacteria,DeepOcean4_155,Yes,1,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_156,Yes,2,Deep)cean
+,,,Acidobacteriota,DeepOcean4_158,Yes,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_160,Yes,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_165,Yes,0,Deep)cean
+,,,Planctomycetota,DeepOcean4_167,Yes,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_170,Yes,2,Deep)cean
+,,,Acidobacteriota,DeepOcean4_171,Yes,1,Deep)cean
+,,,Myxococcota,DeepOcean4_177,Yes,0,Deep)cean
+,,,Planctomycetota,DeepOcean4_178,Yes,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_180,Yes,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_181,Yes,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_182,Yes,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_186,Yes,1,Deep)cean
+,,,Planctomycetota,DeepOcean4_189,Yes,2,Deep)cean
+,,,Acidobacteriota,DeepOcean4_190,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_192,Yes,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_193,Yes,0,Deep)cean
+,,,Verrucomicrobiota,DeepOcean4_195,Yes,1,Deep)cean
+,,,Gemmatimonadota,DeepOcean4_199,Yes,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_200,Yes,1,Deep)cean
+,,,Verrucomicrobiota,DeepOcean4_203,Yes,1,Deep)cean
+,,,Bacteroidota,DeepOcean4_204,Yes,1,Deep)cean
+,,,Myxococcota,DeepOcean4_206,Yes,0,Deep)cean
+,,,Acidobacteriota,DeepOcean4_207,Yes,0,Deep)cean
+,,,Cyanobacteria,DeepOcean4_214,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_217,Yes,1,Deep)cean
+,,,Marinisomatota,DeepOcean4_220,Yes,1,Deep)cean
+,,,Crenarchaeota,DeepOcean4_227,Yes,3,Deep)cean
+,,,Marinisomatota,DeepOcean4_232,Yes,1,Deep)cean
+,,,Planctomycetota,DeepOcean4_234,Yes,3,Deep)cean
+,,,Eremiobacterota,DeepOcean4_236,Yes,0,Deep)cean
+,,,Nanoarchaeota,DeepOcean4_240,Yes,4,Deep)cean
+,,,Binatota,DeepOcean4_241,Yes,0,Deep)cean
+,,,Poribacteria,DeepOcean4_243,Yes,1,Deep)cean
+,,,Bacteroidota,DeepOcean4_244,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_245,Yes,0,Deep)cean
+,,,Acidobacteriota,DeepOcean4_246,Yes,0,Deep)cean
+,,,Planctomycetota,DeepOcean4_248,Yes,0,Deep)cean
+,,,Planctomycetota,DeepOcean4_256,Yes,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_257,Yes,0,Deep)cean
+,,,Verrucomicrobiota,DeepOcean4_258,Yes,1,Deep)cean
+,,,Acidobacteriota,DeepOcean4_260,Yes,1,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_261,Yes,3,Deep)cean
+,,,Nanoarchaeota,DeepOcean4_266,Yes,2,Deep)cean
+,,,Myxococcota,DeepOcean4_268,Yes,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_271,Yes,0,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_272,Yes,3,Deep)cean
+,,,Patescibacteria,DeepOcean4_283,Yes,3,Deep)cean
+,,,Bdellovibrionota,DeepOcean4_287,Yes,0,Deep)cean
+,,,Patescibacteria,DeepOcean4_288,Yes,3,Deep)cean
+,,,Bacteroidota,DeepOcean4_289,Yes,1,Deep)cean
+,,,Bacteroidota,DeepOcean4_290,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_291,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_294,Yes,1,Deep)cean
+,,,Gemmatimonadota,DeepOcean4_295,Yes,1,Deep)cean
+,,,Gemmatimonadota,DeepOcean4_297,Yes,2,Deep)cean
+,,,Bacteroidota,DeepOcean4_300,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_304,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_307,Yes,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_309,Yes,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_310,Yes,2,Deep)cean
+,,,Verrucomicrobiota,DeepOcean4_313,Yes,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_317,Yes,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_1,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_2,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_5,No,2,Deep)cean
+,,,Chloroflexota,DeepOcean4_6,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_9,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_12,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_13,No,0,Deep)cean
+,,,Patescibacteria,DeepOcean4_14,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_15,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_19,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_20,No,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_21,No,2,Deep)cean
+,,,Acidobacteriota,DeepOcean4_22,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_23,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_24,No,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_25,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_26,No,1,Deep)cean
+,,,SAR324,DeepOcean4_27,No,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_31,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_32,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_33,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_35,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_37,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_38,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_40,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_42,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_43,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_44,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_45,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_46,No,1,Deep)cean
+,,,Bdellovibrionota,DeepOcean4_48,No,1,Deep)cean
+,,,Patescibacteria,DeepOcean4_49,No,3,Deep)cean
+,,,Myxococcota,DeepOcean4_51,No,0,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_52,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_53,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_56,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_57,No,0,Deep)cean
+,,,Verrucomicrobiota,DeepOcean4_58,No,1,Deep)cean
+,,,Patescibacteria,DeepOcean4_59,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_60,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_62,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_63,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_64,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_66,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_67,No,0,Deep)cean
+,,,Myxococcota,DeepOcean4_68,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_69,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_70,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_71,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_73,No,0,Deep)cean
+,,,Gemmatimonadota,DeepOcean4_74,No,1,Deep)cean
+,,,Chloroflexota,DeepOcean4_75,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_77,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_78,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_79,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_81,No,0,Deep)cean
+,,,Bdellovibrionota,DeepOcean4_84,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_85,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_86,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_88,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_89,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_90,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_91,No,0,Deep)cean
+,,,Patescibacteria,DeepOcean4_93,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_94,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_99,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_103,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_104,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_108,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_110,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_111,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_112,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_114,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_116,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_118,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_120,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_121,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_123,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_124,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_125,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_126,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_127,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_128,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_130,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_131,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_132,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_133,No,2,Deep)cean
+,,,Bacteroidota,DeepOcean4_135,No,1,Deep)cean
+,,,Actinobacteriota,DeepOcean4_137,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_138,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_139,No,1,Deep)cean
+,,,Bacteroidota,DeepOcean4_140,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_141,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_143,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_144,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_145,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_146,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_147,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_148,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_149,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_151,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_152,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_153,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_154,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_157,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_159,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_161,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_162,No,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_163,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_164,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_166,No,0,Deep)cean
+,,,Dadabacteria,DeepOcean4_168,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_169,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_172,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_173,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_174,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_175,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_176,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_179,No,1,Deep)cean
+,,,Actinobacteriota,DeepOcean4_183,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_184,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_185,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_187,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_188,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_191,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_194,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_196,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_197,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_198,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_201,No,1,Deep)cean
+,,,SAR324,DeepOcean4_202,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_205,No,1,Deep)cean
+,,,Chloroflexota,DeepOcean4_208,No,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_209,No,0,Deep)cean
+,,,Myxococcota,DeepOcean4_210,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_211,No,0,Deep)cean
+,,,Verrucomicrobiota,DeepOcean4_212,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_213,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_215,No,0,Deep)cean
+,,,Thermoplasmatota,DeepOcean4_216,No,2,Deep)cean
+,,,Bdellovibrionota,DeepOcean4_218,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_219,No,1,Deep)cean
+,,,Patescibacteria,DeepOcean4_221,No,2,Deep)cean
+,,,Verrucomicrobiota_A,DeepOcean4_222,No,1,Deep)cean
+,,,SAR324,DeepOcean4_223,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_224,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_225,No,0,Deep)cean
+,,,Gemmatimonadota,DeepOcean4_226,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_228,No,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_229,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_230,No,0,Deep)cean
+,,,Patescibacteria,DeepOcean4_231,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_233,No,1,Deep)cean
+,,,Patescibacteria,DeepOcean4_235,No,2,Deep)cean
+,,,Actinobacteriota,DeepOcean4_237,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_238,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_239,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_242,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_247,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_249,No,0,Deep)cean
+,,,Crenarchaeota,DeepOcean4_250,No,2,Deep)cean
+,,,Bacteroidota,DeepOcean4_251,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_252,No,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_253,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_254,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_255,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_259,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_262,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_263,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_264,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_265,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_267,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_269,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_270,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_273,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_274,No,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_275,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_276,No,0,Deep)cean
+,,,UBA8248,DeepOcean4_277,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_278,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_279,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_280,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_281,No,0,Deep)cean
+,,,Marinisomatota,DeepOcean4_282,No,3,Deep)cean
+,,,Proteobacteria,DeepOcean4_284,No,1,Deep)cean
+,,,Chloroflexota,DeepOcean4_285,No,1,Deep)cean
+,,,Proteobacteria,DeepOcean4_286,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_292,No,0,Deep)cean
+,,,Bacteroidota,DeepOcean4_293,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_296,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_298,No,0,Deep)cean
+,,,Actinobacteriota,DeepOcean4_299,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_301,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_302,No,1,Deep)cean
+,,,Bacteroidota,DeepOcean4_303,No,1,Deep)cean
+,,,Verrucomicrobiota,DeepOcean4_305,No,3,Deep)cean
+,,,Crenarchaeota,DeepOcean4_306,No,2,Deep)cean
+,,,Proteobacteria,DeepOcean4_308,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_311,No,0,Deep)cean
+,,,Proteobacteria,DeepOcean4_312,No,0,Deep)cean
+,,,Chloroflexota,DeepOcean4_314,No,0,Deep)cean
+,,,Halobacterota,DeepOcean4_315,No,3,Deep)cean

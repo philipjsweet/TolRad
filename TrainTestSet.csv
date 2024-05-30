@@ -1,0 +1,62 @@
+﻿Species,Mean D10,log10(D10),Radiosensitive,UniProt Strain,Genome,Domain,Phylum,Class,Gram,OxygenUse,GC,Temp_Opt,Temp_max
+Staphylococcus aureus,443.3333333,2.646730386,No,Staphylococcus aureus (strain NCTC 8325 / PS 47),GCA_000013425.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,34,33.5,45
+Lactococcus lactis ,585,2.767155866,No,Lactococcus lactis subsp. lactis (strain IL1403) (Streptococcus lactis),GCA_000006865.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,35.5,30,39
+Staphylococcus epidermidis ,310,2.491361694,No,Staphylococcus epidermidis (strain ATCC 35984 / RP62A),GCA_000011925.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,35.5,33.5,45
+Lactobacillus acidophilus,1150,3.06069784,No,Lactobacillus acidophilus (strain ATCC 700396 / NCK56 / N2 / NCFM),GCA_000011985.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,35.5,37,45
+Bacillus cereus,489.6,2.689841409,No,Bacillus cereus (strain ATCC 14579 / DSM 31 / CCUG 7414 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NCTC 2599 / NRRL B-3711),GCA_000007825.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,36.2,37,42.5
+Bacillus sphaericus,1500,3.176091259,No,Lysinibacillus sphaericus (Bacillus sphaericus),GCA_002923795.1,Bacteria,Bacillota,Bacilli,Gram-positive,Anaerobic,37.2,37,45
+Listeria monocytogenes,411.75,2.614633608,No,Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e),GCA_000196035.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,38,33.54,45
+Streptococcus thermophilus ,530,2.72427587,No,Streptococcus thermophilus (strain ATCC BAA-250 / LMG 18311),GCA_000011825.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,38.5,37,65
+Enterococcus faecium ,2000,3.301029996,No,Enterococcus faecium (strain ATCC BAA-472 / TX0016 / DO),GCA_000174395.2,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,38.5,36,60
+Enterococcus faecalis,2680,3.428134794,No,Enterococcus faecalis (Streptococcus faecalis),GCA_009498155.3,Bacteria,Bacillota,Bacilli,Gram-negative,Facultative Anaerobic,40,35,60
+Bacillus pumilus,2386.666667,3.377791768,No,Bacillus pumilus (strain SAFR-032),GCA_007679755.1,Bacteria,Bacillota,Bacilli,Gram-positive,Anaerobic,40.7,37,50
+Coxiella burnetii ,640,2.806179974,No,Coxiella burnetii (strain RSA 493 / Nine Mile phase I),GCA_000007765.2,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Anaerobic,42.6,37,
+Escherichia coli,810,2.908485019,No,Escherichia coli O157:H7,GCA_000008865.2,Bacteria,Pseudomonadota,Enterobacterales,Gram-negative,Facultative Anaerobic,50.3,37,45
+Shigella flexneri,290,2.462397998,No,Shigella flexneri,GCA_000006925.2,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,50.9,37,45
+Shigella sonnei,750,2.875061263,No,Shigella sonnei (strain Ss046),GCA_000092525.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,51,37,45
+Morganella morganii,295,2.469822016,No,Morganella morganii subsp. morganii KT,GCA_000286435.2,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,51.15,35,
+Salmonella enterica,425,2.62838893,No,Salmonella enteritidis,GCA_008834165.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-positive,Facultative Anaerobic,51.5,37,46
+Bifidobacterium breve ,540,2.73239376,No,Bifidobacterium breve MCC 1340,GCA_001264105.1,Bacteria,Actinomycetota,Actinomycetia,Gram-positive,Anaerobic,58,39,44
+Aeromonas salmonicida,230,2.361727836,No,Aeromonas salmonicida,GCA_003947395.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,58.5,25,34.5
+Pseudomonas putida ,275,2.439332694,No,Pseudomonas putida (strain ATCC 47054 / DSM 6125 / CFBP 8728 / NCIMB 11950 / KT2440),GCA_000007565.2,Bacteria,Pseudomonadota,Pseudomonadales,Gram-negative,Aerobic,62.5,30,35
+Rhodococcus erythropolis,1350,3.130333768,No,Rhodococcus erythropolis (Arthrobacter picolinophilus),GCA_003990875.1,Bacteria,Actinobacteria,Rubrobacteria,Gram-positive,Aerobic,64,30,40
+Thermus thermophilus,800,2.903089987,No,Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8),GCA_000091545.1,Bacteria,Deinococci,,Gram-negative,Aerobic,65,65,81
+Mycobacterium tuberculosis,763.3333333,2.882714228,No,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),GCA_000195955.2,Bacteria,Actinobacteria,Actinomycetia,Gram-positive,Facultative Anaerobic,65.6,37,45
+Deinococcus geothermalis,12500,4.096910013,No,Deinococcus geothermalis (strain DSM 11300 / AG-3a),GCA_000196275.1,Bacteria,Deinococci,,Gram-positive,Aerobic,65.9,30,55
+Stenotrophomonas maltophilia,530,2.72427587,No,Stenotrophomonas maltophilia (strain K279a),GCA_000072485.1,Bacteria,Pseudomonadota,Xanthomonadales,Gram-negative,Aerobic,66.9,35,37
+Rubrobacter radiotolerans,12000,4.079181246,No,Rubrobacter radiotolerans,GCA_000661895.1,Bacteria,Actinobacteria,Rubrobacteria,Gram-positive,Aerobic,66.91,45,55
+Deinococcus radiodurans,15666.66667,4.194976603,No,Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422),GCA_011604825.1,Bacteria,Deinococci,,Gram-positive,Aerobic,67,30,37
+Mycobacterium smegmatis,500,2.698970004,No,Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) (Mycobacterium smegmatis),GCA_000015005.1,Bacteria,Actinomycetota,Actinomycetia,Gram-positive,Aerobic,67,37,45
+Rubrobacter xylanophilus,6000,3.77815125,No,Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129 / PRD-1),GCA_000014185.1,Bacteria,Actinobacteria,Actinomycetia,Gram-positive,Aerobic,67.6,60,70
+Kocuria rhizophila,2900,3.462397998,No,Kocuria rhizophila,GCA_001190985.2,Bacteria,Actinomycetota,Actinomycetia,Gram-positive,Aerobic,71.16,28,40
+Methylobacterium radiotoleran,1000,3,No,Methylobacterium radiotolerans (strain ATCC 27329 / DSM 1819 / JCM 2831 / NBRC 15690 / NCIMB 10815 / 0-1),GCA_000019725.1,Bacteria,Pseudomonadota,Hyphomicrobiales,Gram-negative,Aerobic,72.3,27.5,
+Micrococcus luteus ,2900,3.462397998,No,Micrococcus luteus Mu201,GCA_900163885.1,Bacteria,Actinomycetota,Actinomycetia,Gram-positive,Aerobic,73,31,45
+Kineococcus radiotolerans ,2000,3.301029996,No,Kineococcus radiotolerans (strain ATCC BAA-149 / DSM 14245 / SRS30216),GCA_000017305.1,Bacteria,Actinomycetota,Actinomycetia,Gram-positive,Facultative Anaerobic,74.2,41,
+Salmonella typhimurium ,380,2.579783597,No,Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720),GCA_000006945.2,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Aerobic,52.1,37,45
+Pediococcus pentosaceus ,685,2.835690571,No,Pediococcus pentosaceus (strain ATCC 25745 / CCUG 21536 / LMG 10740 / 183-1w),GCA_000014505.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,52.1,30,42
+Priestia megaterium,400,2.602059991,No,Priestia megaterium (strain ATCC 12872 / QMB1551) (Bacillus megaterium),GCA_000025825.1,Bacteria,Bacillota,Bacilli,Gram-positive,Facultative Anaerobic,37.7,37,48
+Acinetobacter radioresistens,2425,3.384711743,No,Acinetobacter radioresistens DSM 6976 = NBRC 102413 = CIP 103788,GCA_000368905.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Aerobic,41.6,37,42
+Spirosoma radiotolerans,9000,3.954242509,No,Spirosoma radiotolerans,GCA_000974425.1,Bacteria,Bacteroidetes,Bacteroidetes,Gram-negative,Aerobic,49.5,28,
+Deinococcus ficus,7000,3.84509804,No,Deinococcus ficus,GCA_003444775.1,Bacteria,Deinococci,,Gram-negative,Aerobic,69.97,37,40
+Paenibacillus amylolyticus,330,2.51851394,No,Paenibacillus amylolyticus,GCA_003719335.1,Bacteria,Bacillota,Bacilli,Gram-negative,Aerobic,45.8,30,40
+Enterobacter sp. BIGb0383,420,2.62324929,No,Enterobacter sp. BIGb0383,GCA_003751845.1,Bacteria,Pseudomonadota,Enterobacterales,Gram-negative,Facultative Anaerobic,55,37,45
+Salmonella enterica subsp. enterica serovar Heidelberg,330,2.51851394,No,Salmonella enterica subsp. enterica serovar Heidelberg,GCA_008124065.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,52.1,37,
+Aquifex pyrophilus,2842,3.453624074,No,Aquifex aeolicus (strain VF5),GCA_015661675.1,Bacteria,Aquificota,Aquificales,Gram-negative,Facultative Anaerobic,41.5,85,95
+Proteus vulgaris,279.5,2.446381812,No,Proteus vulgaris,GCA_900455275.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,38,25,43
+Salmonella muenster,600,2.77815125,No,Salmonella muenster,GCA_008480455.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,52.1,37,
+Salmonella Senftenberg,330,2.51851394,No,Salmonella senftenberg,GCA_004768585.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,52.1,37,50
+Shigella boydii ,300,2.477121255,No,Shigella boydii serotype 18 (strain CDC 3083-94 / BS512),GCA_000020185.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,50.6,37,47
+Campylobacter jejuni ,177.5,2.249198357,Yes,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),GCA_000009085.1,Bacteria,Pseudomonadota,Epsilonproteobacteria,Gram-negative,Microaerophile,31.5,37,45
+Campylobacter lari ,140,2.146128036,Yes,Campylobacter lari NCTC 11845,GCA_000816365.1,Bacteria,Pseudomonadota,Epsilonproteobacteria,Gram-negative,Microaerophile,32,42,42
+Campylobacter coli,155,2.190331698,Yes,Campylobacter coli,GCA_004956825.1,Bacteria,Pseudomonadota,Epsilonproteobacteria,Gram-negative,Microaerophile,33,37,42
+Shewanella oneidensis,70,1.84509804,Yes,Shewanella oneidensis (strain MR-1),GCA_000146165.2,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,45,30,40
+Shewanella putrefaciens,110,2.041392685,Yes,Shewanella putrefaciens (strain 200),GCA_000169215.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,45.5,32.5,40
+Vibrio cholera O1,98,1.991226076,Yes,Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961),GCA_000006745.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,48,,40
+Neisseria gonorrhoeae,125,2.096910013,Yes,Neisseria gonorrhoeae (strain ATCC 700825 / FA 1090),GCA_000006845.1,Bacteria,Pseudomonadota,Betaproteobacteria,Gram-negative,Aerobic,51.4,36,
+Serratia marcescens,60,1.77815125,Yes,Serratia marcescens,GCA_001051865.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,58.8,37,40
+Aeromonas hydrophila,150,2.176091259,Yes,Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / DSM 30187 / BCRC 13018 / CCUG 14551 / JCM 1027 / KCTC 2358 / NCIMB 9240 / NCTC 8049),GCA_000014805.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,60,29.5,40
+Acinetobacter calcaeceticus,120,2.079181246,Yes,Acinetobacter calcoaceticus ANC 3680,APQH01,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Aerobic,38.6,35,45
+Salmonella paratyphi,120,2.079181246,Yes,Salmonella paratyphi C (strain RKS4594),GCA_000018385.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,52.1,37,42
+Yersinia enterocolitica,155,2.190331698,Yes,Yersinia enterocolitica subsp. enterocolitica,GCA_901472495.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,47,37,98
+Klebsiella variicola,184,2.264817823,Yes,Klebsiella variicola,GCA_014489395.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,57.2,35,37
+Vibrio parahaemolyticus,48.33333333,1.684246747,Yes,Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633),GCA_000196095.1,Bacteria,Pseudomonadota,Gammaproteobacteria,Gram-negative,Facultative Anaerobic,45.3,35,40
